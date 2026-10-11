@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "click-bash4.2-completion",
+  "versions": [
+    {
+      "commit": "b0fcf111ad59422b024a5a4e2737040f70f06eff",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:28:17.767338+00:00"
+    }
+  ]
+}
