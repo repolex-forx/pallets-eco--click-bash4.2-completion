@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": "click-bash4.2-completion",
+  "versions": [
+    {
+      "commit": "b0fcf111ad59422b024a5a4e2737040f70f06eff",
+      "parsed_at": "2026-10-11T08:26:32.008101+00:00",
+      "filetree": "filetree/b0fcf111ad59422b024a5a4e2737040f70f06eff.nq.gz",
+      "blobs": [
+        "blob/c9133d67eee5e43c80f19530a12dd6df0fbf4db4.nq.gz",
+        "blob/047c0f2664845beb8ba4a2c2ef913dce67d98dbd.nq.gz",
+        "blob/79b5c98940f780910ceddc8bd4fbd02af6b9fbfc.nq.gz",
+        "blob/8ddfdd73bf890a0e91b23fca34ec4268814866ea.nq.gz",
+        "blob/1a053ebfe21b190c9bac6d31fa3d713b7165eac8.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
